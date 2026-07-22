@@ -1,0 +1,18 @@
+[submodule "ROCK"]
+	path = ROCK
+	url = https://github.com/alibaba/ROCK.git
+[submodule "ROLL"]
+	path = ROLL
+	url = https://github.com/reinthal/ROLL.git
+[submodule "iflow-cli"]
+	path = iflow-cli
+	url = https://github.com/reinthal/iflow-cli.git
+[submodule "terminal-bench-2"]
+	path = terminal-bench-2
+	url = https://github.com/harbor-framework/terminal-bench-2.git
+[submodule "terminal-bench-datasets"]
+	path = terminal-bench-datasets
+	url = https://github.com/laude-institute/terminal-bench-datasets.git
+[submodule "terminal-bench-pro"]
+	path = terminal-bench-pro
+	url = https://github.com/alibaba/terminal-bench-pro.git
